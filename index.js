@@ -1,9 +1,9 @@
-let s = [ // 7
+let s = [ // DEBE SER 7
   [5, 3, 4],
   [1, 5, 8],
   [6, 4, 2],
 ];
-// s = [
+// s = [ //DEBE SER 4
 //   [4, 8, 2],
 //   [4, 5, 7], 
 //   [6, 1, 6]]; //no
@@ -12,7 +12,7 @@ let s = [ // 7
 
 
 // si no estan todos los numero se divide por dos
-//si estan todos no se divide por dos
+// TIRA UN ERROR CON ALGUNOS
 
 
 // s = [
